@@ -7,7 +7,7 @@
       <img src= "https://user-images.githubusercontent.com/67145585/134778810-3ed67ef3-8699-42b9-80f3-6a2618d128b3.jpg"/>
     </a>
     <a href="https://www.python.org/">
-      <img src="http://ForTheBadge.com/images/badges/made-with-html.svg" />
+      <img src="http://ForTheBadge.com/images/badges/made-with-nodejs.svg" />
     </a>
   </p>
 </p>
