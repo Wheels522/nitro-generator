@@ -32,7 +32,7 @@
 
 # Download
 
-[![hey](https://img.shields.io/badge/Download%20.py-181717?style=for-the-badge&color=black&logo=python)](https://github.com/lnxcz/nitro-generator/archive/refs/heads/master.zip)
+[![hey](https://img.shields.io/badge/Download%20.zip-181717?style=for-the-badge&color=grey&logo=nodejs)](https://github.com/tirenetwork/tireunblocker/archive/refs/heads/master.zip)
 
 # About the program
 
